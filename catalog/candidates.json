@@ -1,0 +1,150 @@
+{
+  "catalog_version": "2026-10-30",
+  "currency_note": "Archived prices were migrated from the EU buying sheet and are kept in EUR for reconciliation only. Current shelf prices must be read from the product pages.",
+  "candidates": [
+    {
+      "candidate_id": "NW-B01",
+      "title": "Chase Me (Paris Nights #2)",
+      "canonical_url": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html",
+      "supplier": "Dunmore & Quill",
+      "archived_price_eur": 28.4,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B02",
+      "title": "In Her Wake",
+      "canonical_url": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html",
+      "supplier": "Granite Bay Books",
+      "archived_price_eur": 14.6,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B03",
+      "title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+      "canonical_url": "https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html",
+      "supplier": "Dunmore & Quill",
+      "archived_price_eur": 17.3,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B04",
+      "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+      "canonical_url": "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
+      "supplier": "Granite Bay Books",
+      "archived_price_eur": 15.0,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B05",
+      "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+      "canonical_url": "https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html",
+      "supplier": "Blue Lantern Books",
+      "archived_price_eur": 15.2,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B06",
+      "title": "Rip it Up and Start Again",
+      "canonical_url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+      "supplier": "Blue Lantern Books",
+      "archived_price_eur": 39.8,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B07",
+      "title": "Sapiens: A Brief History of Humankind",
+      "canonical_url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+      "supplier": "Dunmore & Quill",
+      "archived_price_eur": 61.7,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B08",
+      "title": "Set Me Free",
+      "canonical_url": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+      "supplier": "Blue Lantern Books",
+      "archived_price_eur": 19.9,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B09",
+      "title": "Sharp Objects",
+      "canonical_url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+      "supplier": "Alder & Finch",
+      "archived_price_eur": 54.1,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B10",
+      "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "canonical_url": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+      "supplier": "Alder & Finch",
+      "archived_price_eur": 26.3,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B11",
+      "title": "The Elephant Tree",
+      "canonical_url": "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html",
+      "supplier": "Foxglove Distribution",
+      "archived_price_eur": 26.9,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B12",
+      "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "canonical_url": "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html",
+      "supplier": "Elmwood Wholesale",
+      "archived_price_eur": 20.1,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B13",
+      "title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+      "canonical_url": "https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html",
+      "supplier": "Cedar Row Trade",
+      "archived_price_eur": 23.4,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B14",
+      "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+      "canonical_url": "https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html",
+      "supplier": "Harborlight Supply",
+      "archived_price_eur": 19.1,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B15",
+      "title": "The Requiem Red",
+      "canonical_url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+      "supplier": "Foxglove Distribution",
+      "archived_price_eur": 25.6,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B16",
+      "title": "Thirst",
+      "canonical_url": "https://books.toscrape.com/catalogue/thirst_946/index.html",
+      "supplier": "Harborlight Supply",
+      "archived_price_eur": 19.6,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B17",
+      "title": "This One Summer",
+      "canonical_url": "https://books.toscrape.com/catalogue/this-one-summer_947/index.html",
+      "supplier": "Alder & Finch",
+      "archived_price_eur": 22.5,
+      "last_updated": "2026-10-30"
+    },
+    {
+      "candidate_id": "NW-B18",
+      "title": "Tipping the Velvet",
+      "canonical_url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+      "supplier": "Elmwood Wholesale",
+      "archived_price_eur": 61.2,
+      "last_updated": "2026-10-30"
+    }
+  ]
+}
