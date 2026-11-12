@@ -16,24 +16,15 @@ not per supplier, and the team only sources from suppliers whose status is curre
 
 ## Candidate Pool
 
-- Chase Me (Paris Nights #2) :: €28.40 :: supplier: Dunmore & Quill
-- In Her Wake :: €14.60 :: supplier: Granite Bay Books
-- Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1) :: €17.30 :: supplier: Dunmore & Quill
-- Princess Between Worlds (Wide-Awake Princess #5) :: €15.00 :: supplier: Granite Bay Books
-- Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1) :: €15.20 :: supplier: Blue Lantern Books
-- Rip it Up and Start Again :: €39.80 :: supplier: Blue Lantern Books
-- Sapiens: A Brief History of Humankind :: €61.70 :: supplier: Dunmore & Quill
-- Set Me Free :: €19.90 :: supplier: Blue Lantern Books
-- Sharp Objects :: €54.10 :: supplier: Alder & Finch
-- The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics :: €26.30 :: supplier: Alder & Finch
-- The Elephant Tree :: €26.90 :: supplier: Foxglove Distribution
-- The Four Agreements: A Practical Guide to Personal Freedom :: €20.10 :: supplier: Elmwood Wholesale
-- The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer :: €23.40 :: supplier: Cedar Row Trade
-- The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing :: €19.10 :: supplier: Harborlight Supply
-- The Requiem Red :: €25.60 :: supplier: Foxglove Distribution
-- Thirst :: €19.60 :: supplier: Harborlight Supply
-- This One Summer :: €22.50 :: supplier: Alder & Finch
-- Tipping the Velvet :: €61.20 :: supplier: Elmwood Wholesale
+- [Chase Me (Paris Nights #2)](https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html) :: £25.27 :: supplier: Dunmore & Quill
+- [Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)](https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html) :: £15.44 :: supplier: Dunmore & Quill
+- [Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)](https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html) :: £13.61 :: supplier: Blue Lantern Books
+- [Set Me Free](https://books.toscrape.com/catalogue/set-me-free_988/index.html) :: £17.46 :: supplier: Blue Lantern Books
+- [The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics](https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html) :: £22.60 :: supplier: Alder & Finch
+- [The Elephant Tree](https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html) :: £23.82 :: supplier: Foxglove Distribution
+- [The Four Agreements: A Practical Guide to Personal Freedom](https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html) :: £17.66 :: supplier: Elmwood Wholesale
+- [Thirst](https://books.toscrape.com/catalogue/thirst_946/index.html) :: £17.27 :: supplier: Harborlight Supply
+- [This One Summer](https://books.toscrape.com/catalogue/this-one-summer_947/index.html) :: £19.49 :: supplier: Alder & Finch
 
 ## Review Checklist
 
