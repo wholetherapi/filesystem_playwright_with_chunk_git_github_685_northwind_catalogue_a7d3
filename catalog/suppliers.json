@@ -1,0 +1,61 @@
+{
+  "as_of": "2026-10-30",
+  "suppliers": [
+    {
+      "supplier_id": "SUP-101",
+      "name": "Alder & Finch",
+      "status": "approved",
+      "region": "UK",
+      "lead_time_days": 4
+    },
+    {
+      "supplier_id": "SUP-102",
+      "name": "Blue Lantern Books",
+      "status": "approved",
+      "region": "UK",
+      "lead_time_days": 6
+    },
+    {
+      "supplier_id": "SUP-103",
+      "name": "Cedar Row Trade",
+      "status": "on-hold",
+      "region": "UK",
+      "lead_time_days": 9
+    },
+    {
+      "supplier_id": "SUP-104",
+      "name": "Dunmore & Quill",
+      "status": "approved",
+      "region": "IE",
+      "lead_time_days": 7
+    },
+    {
+      "supplier_id": "SUP-105",
+      "name": "Elmwood Wholesale",
+      "status": "approved",
+      "region": "UK",
+      "lead_time_days": 5
+    },
+    {
+      "supplier_id": "SUP-106",
+      "name": "Foxglove Distribution",
+      "status": "approved",
+      "region": "UK",
+      "lead_time_days": 8
+    },
+    {
+      "supplier_id": "SUP-107",
+      "name": "Granite Bay Books",
+      "status": "on-hold",
+      "region": "US",
+      "lead_time_days": 12
+    },
+    {
+      "supplier_id": "SUP-108",
+      "name": "Harborlight Supply",
+      "status": "approved",
+      "region": "UK",
+      "lead_time_days": 3
+    }
+  ]
+}
